@@ -92,11 +92,7 @@ h5 {
 .login {
   padding: 10px;
 }
-.login:hover {
-  background-color: #60e095;
-  padding: 10px;
-  border-radius: 5px;
-}
+
 .fa-star {
   color: rgb(240, 240, 64);
 }
